@@ -26,6 +26,15 @@ Email Me 👉 ✉️ ** shidratulmuntharibon@gmail.com 😊😊
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shid36&theme=react-dark&hide_border=true&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF" />
+</p>
+
+---
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shid36&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shid36&theme=synthwave&hide_border=false)<br/>
