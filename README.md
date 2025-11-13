@@ -1,4 +1,9 @@
-# 💫 Hi 👋, Shidratul Muntha
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=813FF7&background=41414100&width=450&lines=Hi+there+%F0%9F%91%8B;I'm+shidratul+muntha" alt="Typing SVG" />
+  </a>
+</h1>
+
 **A passionate coder
 
 Email Me 👉 ✉️ ** shidratulmuntharibon@gmail.com 😊😊
